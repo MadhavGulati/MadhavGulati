@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Machine Learning using SKLearn.
+- 🌱 I’m currently learning Computer Vision.
+- 🎵 I play the guitar and love music.
+
+
 <!--
 **MadhavGulati/MadhavGulati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
