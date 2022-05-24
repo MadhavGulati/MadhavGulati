@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Madhav</h1>
 <h3 align="center">A web developer and mobile app development enthusiast!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavgulati&label=Profile%20views&color=0e75b6&style=flat" alt="madhavgulati" /> </p>
+<img src="https://komarev.com/ghpvc/?username=madhavgulati&label=Profile%20views&color=0e75b6&style=flat" alt="madhavgulati" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhavgulati" alt="madhavgulati" /></a> </p>
-
-- 🔭 I’m currently working on **Machine Learning with SKLearn and Tensorflow**
+- 🔭 I’m currently working on **Machine Learning with SKLearn, Keras, and Tensorflow**
 
 - 🌱 I’m currently learning **OpenCV and Computer Vision**
 
@@ -15,6 +13,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhavgulati&show_icons=true&locale=en&layout=compact" alt="madhavgulati" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhavgulati&" alt="madhavgulati" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=madhavgulati&show_icons=true&locale=en" alt="madhavgulati" /></p>
 
 <!--### Hi there 👋
 
