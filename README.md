@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Madhav</h1>
-<h3 align="center">A web and mobile app development enthusiast, and machine learning developer.</h3>
+<h3 align="center">An electrical engineering student at Georgia Tech.</h3>
 
 <img src="https://komarev.com/ghpvc/?username=madhavgulati&label=Profile%20views&color=0e75b6&style=flat" alt="madhavgulati" />
 
